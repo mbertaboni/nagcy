@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #
-# nagcy - Nagios Cylance Checker - https://github.com/lazycedar/nagcy
+# nagcy - Nagios Cylance Checker - https://github.com/mbertaboni/nagcy
 # Copyright (C) 2018 Maurizio Bertaboni
 # LOOK DOWN for SETUP !
 # Nagios Cylance Checker (this file) is free software: you can redistribute it and/or modify
